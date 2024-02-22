@@ -4,6 +4,9 @@
 - Analyzed sales trends, customer preferences, and peak hours, providing actionable insights for strategic decision-making.
 - Designed intuitive dashboards with slicers, filters, and drill-through options allowing stakeholders to explore data at various levels.
 
+  # DASHBOARD
+![pizza](https://github.com/PremaLathagithub/Pizza-sales/assets/147397874/cb36b3f2-4e86-4459-97c1-744253e10508)
+
 # INSIGHTS
 
 The analysis results are summarized as follows:
